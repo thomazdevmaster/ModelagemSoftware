@@ -5,8 +5,9 @@
 **:man_teacher: Professor** - Paulo Afonso Parreira Junior
 
 ## Exemplo de uso github
-
+#### Links
 | [Textos](#textos) | [Códigos](#códigos) | [Tópicos](#lista-de-tópicos) | [Tópicos Enumerados](#lista-de-tópicos-enumerados) | [Tabela](#tabela) | [Imagem](#imagem)
+---
 
 ### Textos:
 
