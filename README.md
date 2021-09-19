@@ -6,7 +6,7 @@
 
 ## Exemplo de uso github
 
-| [Textos](#textos) | [Códigos](#codigos:) | [Tópicos](#lista-de-topicos) | [Tópicos Enumerados](#lista-de-topicos-enumerados)
+| [Textos](#textos) | [Códigos](#códigos:) | [Tópicos](#lista-de-tópicos) | [Tópicos Enumerados](#lista-de-tópicos-enumerados) | [Tabela](#tabela) | [Imagem](#imagem)
 
 ### Textos:
 
